@@ -1,11 +1,9 @@
-Hi!, I am Pooja
-Am a Software Developer
-
-
-
-
 
 ### Hi there 👋
+
+Hi!, I am Pooja
+
+Am a Software Developer
 
 <!--
 **PoojaKashyap15/PoojaKashyap15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
