@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi!, I am Pooja
+I am Pooja
 
 Am a Software Developer
 
